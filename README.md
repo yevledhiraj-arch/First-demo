@@ -1,2 +1,3 @@
 # First-demo
-this is my Git repository
+This is my Git repository
+Author Dhiraj 
